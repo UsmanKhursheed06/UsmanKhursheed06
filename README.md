@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter with AI/ML<br>👯 I’m looking to collaborate on App Development <br>🌱 I’m currently learning Flutter<br>💬 Ask me about DBMS, OOP, SQL<br>⚡ Fun fact 😅
+🔭 I’m currently working on Flutter/MERN/Next.js with AI/ML<br>👯 I’m looking to collaborate on Web/App Development <br>🌱 I’m currently learning Sales<br>💬 Ask me about DBMS, OOP, SQL<br>⚡ Fun fact 😅
 
 
 ## 🌐 Socials:
